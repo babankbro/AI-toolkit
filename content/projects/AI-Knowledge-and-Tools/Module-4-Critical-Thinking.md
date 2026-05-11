@@ -13,7 +13,7 @@ sources:
 ---
 # โมดูล 4: ปัญญาประดิษฐ์เพื่อการคิดอย่างมีวิจารณญาณ
 
-ส่วนหนึ่งของหลักสูตร [[AI-Knowledge-and-Tools]] โดยมุ่งเน้นที่การพัฒนา [[AI-for-CK-CT-RT|การคิดอย่างมีวิจารณญาณ (Critical Thinking: CT)]]
+ส่วนหนึ่งของหลักสูตร [[index|AI-Knowledge-and-Tools]] โดยมุ่งเน้นที่การพัฒนา [[AI-for-CK-CT-RT|การคิดอย่างมีวิจารณญาณ (Critical Thinking: CT)]]
 
 ## วัตถุประสงค์
 - เพื่อทำความเข้าใจองค์ประกอบ 6 ประการของ CT: การย่อยปัญหา (Decomposition), การจดจำรูปแบบ (Pattern Recognition), แนวคิดเชิงนามธรรม (Abstraction), การออกแบบอัลกอริทึม (Algorithm Design), การวิเคราะห์ (Analysis) และ การประเมินผล (Evaluation)

@@ -13,7 +13,7 @@ sources:
 ---
 # โมดูล 2: ปัญญาประดิษฐ์เพื่อพัฒนาความรู้ในเนื้อหา
 
-ส่วนหนึ่งของหลักสูตร [[AI-Knowledge-and-Tools]] โดยมุ่งเน้นที่การพัฒนา [[AI-for-CK-CT-RT|ความรู้ในเนื้อหา (Content Knowledge: CK)]]
+ส่วนหนึ่งของหลักสูตร [[index|AI-Knowledge-and-Tools]] โดยมุ่งเน้นที่การพัฒนา [[AI-for-CK-CT-RT|ความรู้ในเนื้อหา (Content Knowledge: CK)]]
 
 ## วัตถุประสงค์
 - เพื่อใช้รูปแบบ CTF (Context–Task–Format) ในการเขียนคำสั่ง (Prompts) อย่างมีประสิทธิภาพ
