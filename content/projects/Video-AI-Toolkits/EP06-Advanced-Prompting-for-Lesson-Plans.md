@@ -3,7 +3,7 @@ tags: [video-ai, prompt-engineering, lesson-plan, reading-literacy, pisa, growth
 course: Video AI Toolkits
 ep: 6
 title: เทคนิคขั้นสูงในการเขียน Prompt สำหรับแผนการสอน
-summary: เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP6" ครอบคลุมเทคนิค Prompt Engineering 5 ขั้นตอน การแทรกทักษะแห่งอนาคต และการป้องกัน AI Hallucination
+summary: 'เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP6" ครอบคลุมเทคนิค Prompt Engineering 5 ขั้นตอน การแทรกทักษะแห่งอนาคต และการป้องกัน AI Hallucination'
 ---
 # EP.6 — เทคนิคขั้นสูงในการเขียน Prompt สำหรับแผนการสอน (Advanced Prompting for Lesson Plans)
 

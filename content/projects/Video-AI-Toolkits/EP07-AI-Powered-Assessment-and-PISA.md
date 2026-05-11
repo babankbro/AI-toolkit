@@ -3,7 +3,7 @@ tags: [video-ai, assessment, lesson-plan, pisa, prompt-engineering, critical-thi
 course: Video AI Toolkits
 ep: 7
 title: การปรับแผนการสอนและการสร้างแบบทดสอบด้วย AI
-summary: เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP7" ครอบคลุมการปรับแต่งแผนการสอน การเตรียมไฟล์ใบความรู้ และการใช้ AI สร้างข้อสอบวัดทักษะ
+summary: 'เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP7" ครอบคลุมการปรับแต่งแผนการสอน การเตรียมไฟล์ใบความรู้ และการใช้ AI สร้างข้อสอบวัดทักษะ'
 ---
 # EP.7 — การปรับแผนการสอนและการสร้างแบบทดสอบด้วย AI (AI-Powered Assessment & PISA)
 

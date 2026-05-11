@@ -3,7 +3,7 @@ tags: [video-ai, ebook-creation, multimedia, prompt-engineering, active-learning
 course: Video AI Toolkits
 ep: 10
 title: การสร้างสื่อมัลติมีเดียและ E-book ด้วย AI
-summary: เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP10" ว่าด้วยการตรวจสอบแผนการสอน การสร้าง E-book และเทคนิคการเขียน Prompt
+summary: 'เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP10" ว่าด้วยการตรวจสอบแผนการสอน การสร้าง E-book และเทคนิคการเขียน Prompt'
 ---
 # EP.10 — การสร้างสื่อมัลติมีเดียและ E-book ด้วย AI (Multimedia & E-book Creation)
 

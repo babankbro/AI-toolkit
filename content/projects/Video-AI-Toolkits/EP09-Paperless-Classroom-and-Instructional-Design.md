@@ -3,7 +3,7 @@ tags: [video-ai, paperless-classroom, active-learning, instructional-design, pro
 course: Video AI Toolkits
 ep: 9
 title: ห้องเรียนไร้สมุดและการออกแบบกระบวนการจัดการเรียนรู้
-summary: เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP9" ว่าด้วยห้องเรียน Paperless การระบุตัวชี้วัดในแผนการสอน และรูปแบบการสอน 30 รูปแบบ
+summary: 'เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP9" ว่าด้วยห้องเรียน Paperless การระบุตัวชี้วัดในแผนการสอน และรูปแบบการสอน 30 รูปแบบ'
 ---
 # EP.9 — ห้องเรียนไร้สมุดและการออกแบบกระบวนการจัดการเรียนรู้ (Paperless Classroom & Instructional Design)
 

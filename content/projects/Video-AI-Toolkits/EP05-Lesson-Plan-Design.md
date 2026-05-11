@@ -3,7 +3,7 @@ tags: [video-ai, lesson-plan, active-learning, critical-thinking, reading-litera
 course: Video AI Toolkits
 ep: 5
 title: การออกแบบแผนการจัดการเรียนรู้ด้วย AI
-summary: เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP5" ว่าด้วยการชี้แจงเป้าหมายและการบูรณาการ AI เข้ากับการเขียนแผนการจัดการเรียนรู้
+summary: 'เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP5" ว่าด้วยการชี้แจงเป้าหมายและการบูรณาการ AI เข้ากับการเขียนแผนการจัดการเรียนรู้'
 ---
 # EP.5 — การออกแบบแผนการจัดการเรียนรู้ด้วย AI (Lesson Plan Design)
 

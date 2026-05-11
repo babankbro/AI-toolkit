@@ -3,7 +3,7 @@ tags: [video-ai, video-generation, scripting, chatgpt, prompt-engineering, consi
 course: Video AI Toolkits
 ep: 11
 title: การเขียน Script และการสร้างวิดีโอด้วย AI
-summary: เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP11" ว่าด้วยการตั้งค่า AI เขียนบทวิดีโอ และการสร้างวิดีโอที่มีตัวละครต่อเนื่อง
+summary: 'เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP11" ว่าด้วยการตั้งค่า AI เขียนบทวิดีโอ และการสร้างวิดีโอที่มีตัวละครต่อเนื่อง'
 ---
 # EP.11 — การเขียน Script และการสร้างวิดีโอด้วย AI (Video Generation & Scripting)
 

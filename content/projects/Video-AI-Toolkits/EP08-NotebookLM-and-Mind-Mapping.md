@@ -3,7 +3,7 @@ tags: [video-ai, notebooklm, mind-map, infographic, assessment, lesson-plan]
 course: Video AI Toolkits
 ep: 8
 title: การสกัดเนื้อหาด้วย NotebookLM และการสร้างสื่อประกอบ
-summary: เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP8" ว่าด้วยการใช้งาน NotebookLM การสร้าง Mind Map และกระบวนการรวมแผนการสอนคุณภาพ
+summary: 'เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP8" ว่าด้วยการใช้งาน NotebookLM การสร้าง Mind Map และกระบวนการรวมแผนการสอนคุณภาพ'
 ---
 # EP.8 — การสกัดเนื้อหาด้วย NotebookLM และการสร้างสื่อประกอบ (NotebookLM & Mind Mapping)
 

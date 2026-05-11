@@ -3,7 +3,7 @@ tags: [video-ai, ai-ethics, pdpa, prompt-engineering, generative-ai]
 course: Video AI Toolkits
 ep: 4
 title: จริยธรรม AI และเทคนิคการเขียนคำสั่ง (Prompt Engineering)
-summary: เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP4" ครอบคลุมเรื่องจริยธรรม AI กฎหมาย PDPA และเทคนิคการเขียน Prompt Engineering
+summary: 'เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP4" ครอบคลุมเรื่องจริยธรรม AI กฎหมาย PDPA และเทคนิคการเขียน Prompt Engineering'
 ---
 # EP.4 — จริยธรรม AI และเทคนิคการเขียนคำสั่ง (AI Ethics & Prompt Engineering)
 

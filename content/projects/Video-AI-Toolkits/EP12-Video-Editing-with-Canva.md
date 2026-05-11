@@ -3,7 +3,7 @@ tags: [video-ai, video-editing, canva, subtitle, education]
 course: Video AI Toolkits
 ep: 12
 title: การตัดต่อวิดีโอและใส่ซับไตเติลด้วย Canva
-summary: เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP12" ว่าด้วยการนำคลิปวิดีโอจาก AI มาตัดต่อและจัดทำซับไตเติลผ่าน Canva
+summary: 'เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP12" ว่าด้วยการนำคลิปวิดีโอจาก AI มาตัดต่อและจัดทำซับไตเติลผ่าน Canva'
 ---
 # EP.12 — การตัดต่อวิดีโอและใส่ซับไตเติลด้วย Canva (Video Editing with Canva)
 

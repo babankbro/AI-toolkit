@@ -3,7 +3,7 @@ tags: [video-ai, canva, youtube, multimedia, fact-checking, content-creation]
 course: Video AI Toolkits
 ep: 13
 title: การตกแต่งวิดีโอและการอัปโหลดลง YouTube
-summary: เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP13" ว่าด้วยการตกแต่งเสียงประกอบ ดาวน์โหลดคลิป สร้างช่อง YouTube และการส่งผลงาน
+summary: 'เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP13" ว่าด้วยการตกแต่งเสียงประกอบ ดาวน์โหลดคลิป สร้างช่อง YouTube และการส่งผลงาน'
 ---
 # EP.13 — การตกแต่งวิดีโอและการอัปโหลดลง YouTube (Video Publishing & YouTube)
 

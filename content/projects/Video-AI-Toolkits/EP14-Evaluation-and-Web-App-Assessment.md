@@ -3,7 +3,7 @@ tags: [video-ai, assessment, web-app, google-apps-script, plc, reflection]
 course: Video AI Toolkits
 ep: 14
 title: การประเมินผลและการออกแบบ Web App วัดผลด้วย AI
-summary: เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP14" ว่าด้วยมิติการประเมิน 6 ด้าน การสร้าง Web App ประเมินผล และกำหนดการขั้นต่อไปของโครงการ
+summary: 'เอกสารถอดข้อความเชิงลึกจากการบรรยายหัวข้อ "AI Toolkits: EP14" ว่าด้วยมิติการประเมิน 6 ด้าน การสร้าง Web App ประเมินผล และกำหนดการขั้นต่อไปของโครงการ'
 ---
 # EP.14 — การประเมินผลและการออกแบบ Web App วัดผลด้วย AI (Evaluation & Web App Assessment)
 
